@@ -1,0 +1,2 @@
+javac CanteenManagement.java
+java -cp "./lib/mysql.jar;" CanteenManagement
